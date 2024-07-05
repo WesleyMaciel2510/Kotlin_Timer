@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kotlin_Timer</string>
+    <string name="logo">LOGO</string>
+    <string name="kotlin_timer">Kotlin Timer</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="time_in_minutes">Time (in minutes)</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="reset">RESET</string>
+</resources>
