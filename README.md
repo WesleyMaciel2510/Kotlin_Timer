@@ -1,4 +1,4 @@
-# Countdown Timer App ⏳
+# Kotlin Timer App ⏳
 
 This Android application allows users to set a countdown timer and manage its operations (start, stop, reset). It's built using Kotlin and integrates Material Design components for a modern UI.
 
